@@ -1,0 +1,8 @@
+C:\Users\Awire\source\repos\highmem\highmem\bin\Debug\highmem.exe.config
+C:\Users\Awire\source\repos\highmem\highmem\bin\Debug\highmem.exe
+C:\Users\Awire\source\repos\highmem\highmem\bin\Debug\highmem.pdb
+C:\Users\Awire\source\repos\highmem\highmem\obj\Debug\highmem.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\highmem\highmem\obj\Debug\highmem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\highmem\highmem\obj\Debug\highmem.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\highmem\highmem\obj\Debug\highmem.exe
+C:\Users\Awire\source\repos\highmem\highmem\obj\Debug\highmem.pdb
