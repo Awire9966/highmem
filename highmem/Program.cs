@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Runtime.InteropServices;
 
 namespace highmem
 {
@@ -10,22 +11,9 @@ namespace highmem
     {
         static void Main(string[] args)
         {
-            Byte[] bytes = new Byte[100000000];
-            for (int ii = 0; ii < 10; ii++)
-            {
-
-
-
-                for (int i = 0; i < 100000000; i++)
-                {
-                    bytes[i] = new Byte();
-                }
+            for(var i = 0; i < 128; i++) {
+                Marshal.AllocHGlobal(1024 * 1024 * 1024);
             }
-            Console.Read();
         }
-    }
-    public class Byte
-    {
-        byte main = 0x1;
     }
 }
